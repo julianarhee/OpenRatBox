@@ -1,0 +1,13 @@
+To setup the usb display...
+
+1) install display driver: http://www.displaylink.com/support/mac_downloads.php
+2) install touch driver: http://www.touch-base.com/documentation/mimotouchdevice.htm
+3) calibrate
+4) set as primary display
+
+Notes
+------
+
+The display driver may not work with 'Standard' rotation of the display. If so, set the rotation to 180, and flip the monitor. Then recalibrate the touch screen.
+
+Additional configuration information: http://www.mimomonitors.com/pages/mac-os-x-install-procedures-for-mimo-710-710-s-720-s-740

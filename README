@@ -1,0 +1,12 @@
+This repository contains part files (mechanical, electrical, firmware, etc...) for everything related to the behavior rigs (current and previous designs).
+
+The rough organization includes:
+
+    cage: cage info (mounting point dimensions, etc...)
+    camera: webcam info
+    displays: main & usb display info
+    frame: 80/20 design files & info
+    panels: acrylic panel designs, lasercutter settings & info
+    plumbing: reward & waste plumbing designs & info
+    pumps: syringe pump info
+    sensors: head & lick sensor designs & info
