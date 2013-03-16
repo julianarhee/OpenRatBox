@@ -6,7 +6,7 @@ All pieces below: 4040-lite, black anodized
 
 4x  C	(450mm, tapped on one side for e.f., milled on other for anchors)
 
-2x  D	(443mm, milled for anchor fasteners on both sides, same axis -- e.g. A&C)
+2x  D	(445mm, milled for anchor fasteners on both sides, same axis -- e.g. A&C)
 
 4x  E 	(300mm, tapped on both sides for e.f.)
 
