@@ -1,18 +1,49 @@
 All pieces below: 4040-lite, black anodized
 
-8x  A	(525mm, end fastener access holes, both sides, both axes)
+Per Box (4 per tower):
 
-2x  B	(180mm, both sides tapped for end fasteners)
+4x  A	(525mm, end fastener access holes, both sides, both axes)
+	40-4040-LITE X 525MM	80/20 Metric Extrusion	Black Anodized.With 40-7050 Style MA in R&S Left End and 40-7050 in R&S Right End.	
+2x  B	(210mm, both sides tapped for end fasteners)
+	40-4040-LITE X 210MM	80/20 Metric Extrusion	Black Anodized. With 40-7059 Both Ends
 
 4x  C	(450mm, tapped on one side for e.f., milled on other for anchors)
+	40-4040-LITE X 450MM	80/20 Metric Extrusion	Black Anodized. With 40-7059 One End,& 40-7044 @ A,C Opposite End.
 
 2x  D	(445mm, milled for anchor fasteners on both sides, same axis -- e.g. A&C)
+	40-4040-LITE X 445MM	80/20 Metric Extrusion	Black Anodized. With 40-7044 @ A,C Both Ends.
 
-4x  E 	(300mm, tapped on both sides for e.f.)
+2x  E 	(300mm, tapped on both sides for e.f.)
+	40-4040-LITE X 300MM	80/20 Metric Extrusion	Black Anodized. With 40-7059 Both Ends.
 
 4x  F 	(385mm, tapped on one side, milled for a.f. on other)
+	40-4040-LITE X 385MM	80/20 Metric Extrusion	Black Anodized. With 40-7059 One End & 40-7044 @ A,C Opposite End.
 
-4x  G   (400mm, tapped on one side, milled for a.f. on other)
+Capping off the top (1 per tower)
+
+2x A
+2x E
+
+Bottom carriage (1 per tower)
+
+6x  G   (280mm, tapped on one side, milled for a.f. on other)
+	40-4040-LITE X 280MM	80/20 Metric Extrusion	Black Anodized. With 40-7059 One End & 40-7044 @ A,C Opposite End.
 
 2x  H 	(790mm, tapped on both sides for end fastener)
+	40-4040-LITE X 790MM	80/20 Metric Extrusion	Black Anodized. With 40-7059 both Ends.
+
++2x A
+
+
+Full tower:
+
+A: (4*4) + 2 + 2 = 20
+B: (2*4) = 8
+C: (4*4) = 16
+D: (2*4) = 8
+E: (2*4) + 2 = 10
+F: (4*4) = 16
+G: 6
+H: 2
+
 
