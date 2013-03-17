@@ -1,0 +1,61 @@
+2 Towers:
+
+A: ((4*4) + 2 + 2) * 2 = 40
+B: (2*4) * 2 = 16
+C: (4*4) * 2 = 32
+D: (2*4) * 2 = 16
+E: ((2*4) + 2) * 2 = 20
+F: (4*4) * 2 = 32
+G: 6 * 2 = 16
+H: 2 * 2 = 4
+
+
+(less extra from past orders + 2 for safety margin)
+A: 40 - 10 + 2 = 32
+B: 16 + 2 = 18
+C: 32 + 2 = 34
+D: 16 + 2 = 18
+E: 20 - 10 + 2 = 12
+F: 32 + 2 = 34
+G: 16 + 2 = 18
+H: 4 + 2 = 6
+
+32x  A	(525mm, end fastener access holes, both sides, both axes)
+	40-4040-LITE X 525MM
+	80/20 Metric Extrusion
+	Black Anodized.With 40-7050 Style MA in R&S Left End and 40-7050 in R&S Right End.	
+18x  B	(210mm, both sides tapped for end fasteners)
+	40-4040-LITE X 210MM
+	80/20 Metric Extrusion
+	Black Anodized. With 40-7059 Both Ends
+
+34x  C	(450mm, tapped on one side for e.f., milled on other for anchors)
+	40-4040-LITE X 450MM
+	80/20 Metric Extrusion
+	Black Anodized. With 40-7059 One End,& 40-7044 @ A,C Opposite End.
+
+18x  D	(445mm, milled for anchor fasteners on both sides, same axis -- e.g. A&C)
+	40-4040-LITE X 445MM
+	80/20 Metric Extrusion
+	Black Anodized. With 40-7044 @ A,C Both Ends.
+
+12x  E 	(300mm, tapped on both sides for e.f.)
+	40-4040-LITE X 300MM
+	80/20 Metric Extrusion
+	Black Anodized. With 40-7059 Both Ends.
+
+34x  F 	(385mm, tapped on one side, milled for a.f. on other)
+	40-4040-LITE X 385MM
+	80/20 Metric Extrusion
+	Black Anodized. With 40-7059 One End & 40-7044 @ A,C Opposite End.
+
+
+18x  G   (280mm, tapped on one side, milled for a.f. on other)
+	40-4040-LITE X 280MM
+	80/20 Metric Extrusion
+	Black Anodized. With 40-7059 One End & 40-7044 @ A,C Opposite End.
+
+6x  H 	(790mm, tapped on both sides for end fastener)
+	40-4040-LITE X 790MM
+	80/20 Metric Extrusion
+	Black Anodized. With 40-7059 both Ends.
