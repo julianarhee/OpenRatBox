@@ -49,7 +49,6 @@ H: 4 + 2 = 6
 	80/20 Metric Extrusion
 	Black Anodized. With 40-7059 One End & 40-7044 @ A,C Opposite End.
 
-
 18x  G   (280mm, tapped on one side, milled for a.f. on other)
 	40-4040-LITE X 280MM
 	80/20 Metric Extrusion
