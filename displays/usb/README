@@ -8,6 +8,9 @@ To setup the usb display...
 Notes
 ------
 
+After proper installation, should have "UPDD Console" and "UPDD Calibrate" programs. Use the Console to choose Display 1 as the touchscreen monitor (primary), then calibrate by clicking correct icon in the Console (use precise pointer to touch the 4 calibration points).
+
 The display driver may not work with 'Standard' rotation of the display. If so, set the rotation to 180, and flip the monitor. Then recalibrate the touch screen.
 
 Additional configuration information: http://www.mimomonitors.com/pages/mac-os-x-install-procedures-for-mimo-710-710-s-720-s-740
+
