@@ -6,21 +6,21 @@ C: (4*4) * 2 = 32
 D: (2*4) * 2 = 16
 E: ((2*4) + 2) * 2 = 20
 F: (4*4) * 2 = 32
-G: 6 * 2 = 16
+G: 6 * 2 = 12
 H: 2 * 2 = 4
 
 
 (less extra from past orders + 2 for safety margin)
-A: 40 - 10 + 2 = 32
+A: 40 - 12 + 2 = 30
 B: 16 + 2 = 18
 C: 32 + 2 = 34
 D: 16 + 2 = 18
-E: 20 - 10 + 2 = 12
+E: 20 - 12 + 2 = 10
 F: 32 + 2 = 34
-G: 16 + 2 = 18
+G: 12 + 2 = 14
 H: 4 + 2 = 6
 
-32x  A	(525mm, end fastener access holes, both sides, both axes)
+30x  A	(525mm, end fastener access holes, both sides, both axes)
 	40-4040-LITE X 525MM
 	80/20 Metric Extrusion
 	Black Anodized.With 40-7050 Style MA in R&S Left End and 40-7050 in R&S Right End.	
@@ -39,7 +39,7 @@ H: 4 + 2 = 6
 	80/20 Metric Extrusion
 	Black Anodized. With 40-7044 @ A,C Both Ends.
 
-12x  E 	(300mm, tapped on both sides for e.f.)
+10x  E 	(300mm, tapped on both sides for e.f.)
 	40-4040-LITE X 300MM
 	80/20 Metric Extrusion
 	Black Anodized. With 40-7059 Both Ends.
@@ -49,7 +49,7 @@ H: 4 + 2 = 6
 	80/20 Metric Extrusion
 	Black Anodized. With 40-7059 One End & 40-7044 @ A,C Opposite End.
 
-18x  G   (280mm, tapped on one side, milled for a.f. on other)
+14x  G   (280mm, tapped on one side, milled for a.f. on other)
 	40-4040-LITE X 280MM
 	80/20 Metric Extrusion
 	Black Anodized. With 40-7059 One End & 40-7044 @ A,C Opposite End.

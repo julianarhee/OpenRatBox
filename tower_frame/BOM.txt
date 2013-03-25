@@ -3,7 +3,8 @@ All pieces below: 4040-lite, black anodized
 Per Box (4 per tower):
 
 4x  A	(525mm, end fastener access holes, both sides, both axes)
-	40-4040-LITE X 525MM	80/20 Metric Extrusion	Black Anodized.With 40-7050 Style MA in R&S Left End and 40-7050 in R&S Right End.	
+	40-4040-LITE X 525MM	80/20 Metric Extrusion	Black Anodized.With 40-7050 Style MA in R&S Left End and 40-7050 in R&S Right End.
+	
 2x  B	(210mm, both sides tapped for end fasteners)
 	40-4040-LITE X 210MM	80/20 Metric Extrusion	Black Anodized. With 40-7059 Both Ends
 
