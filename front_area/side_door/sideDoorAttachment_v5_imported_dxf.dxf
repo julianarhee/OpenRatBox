@@ -1,0 +1,492 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1003
+  9
+$EXTMIN
+ 10
+1
+ 20
+16.3124679124775
+  9
+$EXTMAX
+ 10
+12.4000264269259
+ 20
+1
+  9
+$INSBASE
+ 10
+6.70001321346294
+ 20
+8.65623395623875
+999
+Created with OMAX Layout for Windows. (http://www.omax.com) 3/11/2013
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+LAYER
+ 70
+    10
+  0
+LAYER
+  2
+0
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+1
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+2
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+3
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+4
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+5
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+6
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+7
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+8
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+9
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+10
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+11
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+12
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+13
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+14
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+15
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+16
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+17
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+18
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+19
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+20
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+21
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+22
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+23
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+24
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+25
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+26
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+27
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+28
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+29
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+30
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+31
+ 70
+     0
+ 62
+     7
+  6
+CONTINUOUS
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+LINE
+  8
+1
+  6
+CONTINUOUS
+ 62
+1
+ 10
+1
+ 20
+16.3124679124775
+ 30
+0.0
+ 11
+12.4
+ 21
+16.3124679124775
+ 31
+0.0
+  0
+LINE
+  8
+1
+  6
+CONTINUOUS
+ 62
+1
+ 10
+12.4
+ 20
+16.3124679124775
+ 30
+0.0
+ 11
+12.4000264269259
+ 21
+1
+ 31
+0.0
+  0
+LINE
+  8
+1
+  6
+CONTINUOUS
+ 62
+1
+ 10
+12.4000264269259
+ 20
+1
+ 30
+0.0
+ 11
+1.00002642692593
+ 21
+1
+ 31
+0.0
+  0
+LINE
+  8
+1
+  6
+CONTINUOUS
+ 62
+1
+ 10
+1.00002642692593
+ 20
+1
+ 30
+0.0
+ 11
+1
+ 21
+16.3124679124775
+ 31
+0.0
+  0
+ARC
+  8
+1
+  6
+CONTINUOUS
+ 62
+1
+ 10
+6.7
+ 20
+15.9499679124775
+ 30
+0.0
+ 40
+0.124015500000001
+ 50
+179.999999999999
+ 51
+359.999999999999
+  0
+ARC
+  8
+1
+  6
+CONTINUOUS
+ 62
+1
+ 10
+6.7
+ 20
+15.9499679124775
+ 30
+0.0
+ 40
+0.124015500000001
+ 50
+359.999999999999
+ 51
+180
+  0
+ENDSEC
+  0
+EOF
