@@ -13,9 +13,8 @@ This repository contains part files and instructions for high-throughput behavio
 
 ## Instructions
 `instructions`: Start here!
-
-`instructions/behav_rg_special_notes.md`: Contains construction notes and additional tips.
-`instructions/behav_rig_specs_final.xls`: Optional spreadsheet to sort out what size bulk acrylic to buy based on dimensions of custom cut acrylic pieces (disclaimer: might not be fully accurate).
+- `instructions/behav_rg_special_notes.md`: Contains construction notes and additional tips.
+- `instructions/behav_rig_specs_final.xls`: Optional spreadsheet to sort out what size bulk acrylic to buy based on dimensions of custom cut acrylic pieces (disclaimer: might not be fully accurate).
 
 ## Design files
 `add_ons`: Additional acrylic pieces for the tower.
