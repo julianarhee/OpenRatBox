@@ -19,10 +19,10 @@ This repository contains part files and instructions for high-throughput behavio
 
 ## Design files
 `add_ons`: Additional acrylic pieces for the tower.
-`add_ons/cage_hole`: Creates an acrylic hole for the rat's head during training. The `inner_plate` attaches inside the cage and the `outer_plate` mates to it on the outside. Both plates are not necessary if just gluing the plates directly to the cage. Start by drilling or cutting a large hole in the cage, then place the acrylic plate with the (more nicely) laser-cut hold on top to create a smoother opening for the head.
-`add_ons/extrusion_support`: Add these to provide support at the junction connecting two extrusion bars. Use the through holes and M6-slot bolts placed on either side of the connection between the bars.
-`add_ons/power_squid_mount`: Convenient mount to hold up a powerstrip for a given training box. We used a power squid rather than a strip.
--- `add_ons/spacers`: For use with repurposed metal frames that hold cages in portable colony racks. These are useful to make the metal rack fit snuggly between the top and bottom panels of the main vestibule.
+- `add_ons/cage_hole`: Creates an acrylic hole for the rat's head during training. The `inner_plate` attaches inside the cage and the `outer_plate` mates to it on the outside. Both plates are not necessary if just gluing the plates directly to the cage. Start by drilling or cutting a large hole in the cage, then place the acrylic plate with the (more nicely) laser-cut hold on top to create a smoother opening for the head.
+- `add_ons/extrusion_support`: Add these to provide support at the junction connecting two extrusion bars. Use the through holes and M6-slot bolts placed on either side of the connection between the bars.
+- `add_ons/power_squid_mount`: Convenient mount to hold up a powerstrip for a given training box. We used a power squid rather than a strip.
+- `add_ons/spacers`: For use with repurposed metal frames that hold cages in portable colony racks. These are useful to make the metal rack fit snuggly between the top and bottom panels of the main vestibule.
 
 `displays/usb`: Option mounting piece for attaching a little touchscreen display to control each computer.
 
