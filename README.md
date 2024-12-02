@@ -27,31 +27,29 @@ This repository contains part files and instructions for high-throughput behavio
 `displays/usb`: Option mounting piece for attaching a little touchscreen display to control each computer.
 
 `foamboard`: Additional pieces to block out light around the separate front area where the monitor is, in front of the rat and main vestibule (can ignore the foamboard folder in `front_area`)
--- `foamboard/rack_top`: captured piece for the top and bottom of the front vestibule that contains the monitor
--- `foamboard/front_slim`: Fills the gap above the main vestibule (the "L" shape of the box creates blank space above)
--- `foamboard/side_captured`: If not using an acrylic side panel (see `main_vestibule/sides`), can just use a foamboard to close the area on the side.
+- `foamboard/rack_top`: captured piece for the top and bottom of the front vestibule that contains the monitor
+- `foamboard/front_slim`: Fills the gap above the main vestibule (the "L" shape of the box creates blank space above)
+- `foamboard/side_captured`: If not using an acrylic side panel (see `main_vestibule/sides`), can just use a foamboard to close the area on the side.
 
 `front_area`: This is the part of the training box that does not contain the rat cage, but just the monitor, separate from the main vestibule.
--- `front_area/monitor_mount`: acrylic panel with through holes for mounting a monitor to the extrusion bar
--- `front_area/side_frame`:  Can be used with `side_door` or `side_slotted`. This panel creates a frame whose outer edges are fit into the extrusion rails. It has holes to then attach a door, either via thumbscrew (`side_door`) or fully screwing in at all four courners (`side_slotted`)
--- `front_area/side_door`: If using `side_frame`, this is a simple rectangular piece that can be detached/attached with a thumbscrew. Useful for closing off the side, but can be removed (if using oe of the frame pieces) to access wires and such on the monitor-side of the vestibule.
--- `front_area/side_slotted`: Screws into `side_frame` with 4 screws, and has a small slotted opening for wires to come through
+- `front_area/monitor_mount`: acrylic panel with through holes for mounting a monitor to the extrusion bar
+- `front_area/side_frame`:  Can be used with `side_door` or `side_slotted`. This panel creates a frame whose outer edges are fit into the extrusion rails. It has holes to then attach a door, either via thumbscrew (`side_door`) or fully screwing in at all four courners (`side_slotted`)
+- `front_area/side_door`: If using `side_frame`, this is a simple rectangular piece that can be detached/attached with a thumbscrew. Useful for closing off the side, but can be removed (if using oe of the frame pieces) to access wires and such on the monitor-side of the vestibule.
+- `front_area/side_slotted`: Screws into `side_frame` with 4 screws, and has a small slotted opening for wires to come through
 
 `main_vestibule`: Where the rat cage is
--- `base`: bottom or floor of the vestibule
--- `door`: door that attached with hinges and has a handle to make it easy to open/close the box
--- `lid`: top of vestibule
--- `sides`: sides of vestibule (they should be oriented the same way)
--- `front_clear`: `frame` fits into the extrusion rails, and is meant to make the `attachment` window pane removable. The `attachment` panel screws into the `frame` in 4 corners, and also contains slotted holes to allow wiring from the lick ports to come through, out of the front vestibule.
+- `base`: bottom or floor of the vestibule
+- `door`: door that attached with hinges and has a handle to make it easy to open/close the box
+- `lid`: top of vestibule
+- `sides`: sides of vestibule (they should be oriented the same way)
+- `front_clear`: `frame` fits into the extrusion rails, and is meant to make the `attachment` window pane removable. The `attachment` panel screws into the `frame` in 4 corners, and also contains slotted holes to allow wiring from the lick ports to come through, out of the front vestibule.
 
 `sensors`: Mounts to hold various sensors
--- `head`: If using an IR reflector sensor to detect head presence/absence, holds that phidget sensor in place. Not really critical, as the small PCB can be directly screwed onto the MicroRax frame that sits between the `main_vestibule/front_clear` panel and the rat's cage hole.
--- `lick`: 1 or 3 lick ports (clear). Holds the feeding needles that deliver reward, which are also metal (conductive). A small hole should be tapped at the top (M2.5) to hold the lick spout in place, like a set screw. A flat washer can be placed under the screwhead with a wire soldered on in order to create a connection between the lick port and the little touch sensor board outside of the vestibule.
--- `phidget_mounts`: A mount to hold the USB-phidget which connects all the different sensor boards (IR reflector, touch sensors for the lick port detection, etc.)
+- `head`: If using an IR reflector sensor to detect head presence/absence, holds that phidget sensor in place. Not really critical, as the small PCB can be directly screwed onto the MicroRax frame that sits between the `main_vestibule/front_clear` panel and the rat's cage hole.
+- `lick`: 1 or 3 lick ports (clear). Holds the feeding needles that deliver reward, which are also metal (conductive). A small hole should be tapped at the top (M2.5) to hold the lick spout in place, like a set screw. A flat washer can be placed under the screwhead with a wire soldered on in order to create a connection between the lick port and the little touch sensor board outside of the vestibule.
+- `phidget_mounts`: A mount to hold the USB-phidget which connects all the different sensor boards (IR reflector, touch sensors for the lick port detection, etc.)
 
 `tower_frame`: All specifications for the custom-cut extrusion bars, and additional notes.
 
 `x_everything`: When in doubt, all the pieces (might not contain everything though). Always use the most recent version.
-
-
 
