@@ -1,6 +1,8 @@
 # Open Rat Box
 This repository contains part files and instructions for high-throughput behavior rig towers (current and previous designs).
 
+![plot](./images/directory_n/behaviorbox_schematic.pdf)
+
 ## Components 
 - cage: cage info (mounting point dimensions, etc...)
 - camera: webcam info
